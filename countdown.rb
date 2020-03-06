@@ -2,7 +2,7 @@
 
 def countdown (number)
  number = 10
- while countdown == 0 
+ while number == 0 
  puts "HAPPY NEW YEAR"
  number -= 1
  end 
