@@ -1,4 +1,4 @@
-ef countdown(num)
+def countdown(num)
 
 while num > 0
 
@@ -8,7 +8,7 @@ while num > 0
 end
   "HAPPY NEW YEAR!"
 
-
+end
 
 def countdown_with_sleep(num)
 
